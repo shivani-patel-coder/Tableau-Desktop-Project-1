@@ -6,3 +6,4 @@ The dashboard highlights key features driving the business of global superstore.
 The dashboard also shows breakdown of shipping cost over profit sales to show average profitable shipping cost for thriving business. 
 
 ![image](https://user-images.githubusercontent.com/75600348/112736557-d6261200-8f10-11eb-9b9c-4ab665acdb28.png)
+![image](https://user-images.githubusercontent.com/75600348/112736569-ec33d280-8f10-11eb-90af-5b0876a729a5.png)
